@@ -75,12 +75,11 @@
 
 ---
 
-
 ## 🚀 Featured Projects
 
-🔹 Coffee Truck Simulation System — Java MVC simulation project  
-🔹 Data Mining & Frequent Itemset Mining  
-🔹 Machine Learning Experiments
+🔹 [Coffee Truck Simulation System](https://github.com/alecbnono/coffee-business-simulator.git) — Java MVC simulation project  
+🔹 [Hotel Management Simulation](https://github.com/PrinceMPS/S26-06-DBApp.git)  
+🔹 [Post-Disaster Health Outcomes of Flood Control Infrastructure Spending](https://github.com/alecbnono/flood-control-health-outcomes.git)
 
 ---
 
