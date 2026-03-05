@@ -86,9 +86,13 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
+  <!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceMPS&theme=radical&hide_border=true"/>
+
+</div>
+
 
 ---
 
